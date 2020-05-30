@@ -22,5 +22,3 @@ bot.on("message", (msg) => {
     }
   }
 });
-
-///Test
